@@ -2,7 +2,7 @@
 
 <img align="right" width="180" src="https://avatars.githubusercontent.com/u/SEU_USER_ID" alt="Lucas Moraes">
 
-**Estudante de Análise e Desenvolvimento de Sistemas** na UNIAN, apaixonado por programação, bancos de dados e análise de dados.
+**Estudante de Análise e Desenvolvimento de Sistemas**, apaixonado por programação, bancos de dados e análise de dados.
 
 Tenho experiência prática em suporte técnico e monitoramento de sistemas, e venho me especializando em **Python**, **SQL** e **Power BI**.
 
