@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Moraes! 👋
 
-<img align="right" width="180" src="https://avatars.githubusercontent.com/u/SEU_USER_ID" alt="Lucas Moraes">
+<img align="right" width="180" src="https://avatars.githubusercontent.com/u/lucasmoraesdev386" alt="Lucas Moraes">
 
 **Estudante de Análise e Desenvolvimento de Sistemas**, apaixonado por programação, bancos de dados e análise de dados.
 
