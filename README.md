@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Moraes! 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na UNIAN.
+Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ### 🚀 Tecnologias que estou aprendendo:
 - **Python** (Estruturas de Dados, Interfaces Gráficas)
@@ -9,12 +9,12 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UNIAN.
 - HTML, CSS e Lógica de Programação
 
 ### 📚 Projetos em destaque:
-- [Nome do Projeto 1](link) → Descrição curta
-- [Nome do Projeto 2](link) → Descrição curta
+- [Nome do Projeto 1](link) → 
+- [Nome do Projeto 2](link) → 
 
 ### 📫 Contato:
-- LinkedIn: [seu linkedin](link)
-- Email: lucasmoraesred@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/lucasmoraessiqueira/
+- Email: lucasmoraesdkj@hotmail.com
 
 ---
 
