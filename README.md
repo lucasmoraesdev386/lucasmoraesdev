@@ -14,7 +14,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas**.
 
 ### 📫 Contato:
 - LinkedIn: https://www.linkedin.com/in/lucasmoraessiqueira/
-- Email: lucasmoraesdkj@hotmail.com
+- Email: lucasmoraesdkj@gmail.com
 
 ---
 
