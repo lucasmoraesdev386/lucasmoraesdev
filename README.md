@@ -33,7 +33,7 @@ Tenho experiência prática em suporte técnico e monitoramento de sistemas, e v
 
 ### 📌 Projetos em Destaque
 
-- **[Sistema de Gerenciamento com Interface Gráfica](link-do-repositorio)** → Python + Tkinter
+- **[Sistema de Gerenciamento com Interface Gráfica](https://github.com/lucasmoraesdev386/sistema-gerenciamento-tkinter)** → Python + Tkinter
 - **[Análise de Dados com Power BI](link-do-repositorio)** → Dashboards interativos
 - **[Projeto CRUD com Banco de Dados](link-do-repositorio)** → Python + SQLite
 - **[Modelagem e Scripts SQL](link-do-repositorio)** → Banco de Dados Relacional
